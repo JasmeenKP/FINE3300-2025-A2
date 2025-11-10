@@ -1,2 +1,6 @@
-# FINE3300-2025-A2
-Repository for Assignment #2 of FINE3300
+﻿## FINE3300 Assignment 2
+
+- assignment2parta.py
+- LoanSchedules.xlsx
+- LoanBalances.png
+
